@@ -1,5 +1,5 @@
 # CustomizedEmailAlertsTFSPlugin
-/* In this post I will show you how to send Customized Email Alerts using TFS API. This will be done by creating a subscription to #WorkItemChanged event. Our code uses class represents an event handler that is subscribed to TFS event notifications.
+/* In this post I will show you how to send Customized Email Alerts using TFS API. This will be done by creating a subscription to #WorkItemChanged event. Our code uses class represents an event handler that is subscribed to TFS event notifications. We will create an HTML file which will be read and sent as email body, also we can send work item values in our HTML email template.
 
 Visual Studio Project:
 Visual Studio > new project > C# Class Library > Add reference Assemblies (TFS and CRM related)
