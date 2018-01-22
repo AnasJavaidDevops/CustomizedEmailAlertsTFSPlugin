@@ -16,21 +16,21 @@ C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\ReferenceAssembl
 3.	using Microsoft.TeamFoundation.Framework.Server; */
 
 
-       using System.Net.Mail;
+                     using System.Net.Mail;
 
-       using Microsoft.TeamFoundation.Client;
+                     using Microsoft.TeamFoundation.Client;
 
-       using Microsoft.TeamFoundation.Common;
+                     using Microsoft.TeamFoundation.Common;
 
-       using Microsoft.TeamFoundation.Framework.Server;
+                     using Microsoft.TeamFoundation.Framework.Server;
 
-       using System.IO;
+                     using System.IO;
 
-       using System.Web;
+                     using System.Web;
 
-       namespace CustomizedEmailNotificationPlugin
+                     namespace CustomizedEmailNotificationPlugin
 
-       {
+                     {
 
 /// This class represents an event handler that is subscribed to TFS event notifications
 
